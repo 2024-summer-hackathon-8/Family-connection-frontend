@@ -1,0 +1,87 @@
+body{
+    margin-left: 550px;
+    background-color: gray;
+}
+#container{
+    display: flex;
+    width: 360px;
+    height: 47px;
+    padding: 14px 21.599px 12px 22px;
+    padding-right: 80px;
+    align-items: center;
+    gap: 185px;
+    flex-shrink: 0;
+    background-color: #FFFF;
+    color: black;}
+#container2{
+    display: inline-flex;
+    padding: 0px 16px 0px 18px;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFF;
+    color: black;
+    font-family: "Pretendard Variable";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    margin-left: 100px;
+}
+#container3{
+    display: flex;
+    width: 360px;
+    height: 47px;
+    padding: 14px 21.599px 12px 22px;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: #FFFF;
+    color: black; 
+    
+}
+#button{
+    border: 0;
+    outline: 0;
+    background-color: #FFFF;
+    padding-left: 50px;
+}
+#button2{
+    border: 0;
+    outline: 0;
+    background-color: #FFFF;
+    padding-left: 10px;
+}
+#container4{
+    width: 403.5px;
+    height: 650px;
+    background-color: white;
+    margin-left: 100px;
+    
+}
+
+.circle{
+    border-radius: 16px;
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+}
+#hello{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#main{
+    width: 600px;
+    height: 800px;
+    background-color: #FFFF;
+    margin-left: 100px;
+}
+#speak{
+    width: 100px;
+    height: 0px;
+    text-align: center;
+    display: flex;
+    /*  align-items: center; */
+    gap: 10px;
+}
+#name{
+    font-family: "Pretendard Variable";
+}
